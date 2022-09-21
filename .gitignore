@@ -1,0 +1,8 @@
+terraform/.terraform/**
+terraform/*.tfplan
+terraform/*.tfstate
+terraform/*backup*
+terraform/assets/name.basics.tsv
+terraform/.DS_Store
+terraform/.terraform.lock.hcl
+.DS_Store
